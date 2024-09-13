@@ -1,0 +1,18 @@
+Order ref: 1000
+Client ID: 100
+Product name: Tablets
+Quantity: 300
+Total price: 300000.00
+_____________________
+Order ref: 1000
+Client ID: 100
+Product name: Injections
+Quantity: 409
+Total price: 818204.50
+_____________________
+Order ref: 1000
+Client ID: 100
+Product name: Inhalers
+Quantity: 100
+Total price: 150040.00
+_____________________

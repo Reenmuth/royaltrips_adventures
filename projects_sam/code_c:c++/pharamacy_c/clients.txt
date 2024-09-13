@@ -1,0 +1,12 @@
+
+Client ID: 100
+Client name: sam
+Client phone number: 0799169720
+Client email: sam@email.com
+__________________________
+
+Client ID: 100
+Client name: njoro
+Client phone number: 0799169720
+Client email: sam@email.com
+__________________________

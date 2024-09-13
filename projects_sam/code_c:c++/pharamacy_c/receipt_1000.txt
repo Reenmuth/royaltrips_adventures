@@ -1,0 +1,48 @@
+----------------------------------
+      PHARMACEUTICAL COMPANY LIM      
+----------------------------------
+Receipt for Order Reference: 1000
+----------------------------------
+Client Name: sam
+Client Phone Number: 0799169720
+Client Email: sam@email.com
+----------------------------------
+Product Ordered: Tablets
+Quantity: 300
+Total Price: Ksh300000.00
+----------------------------------
+Thank you for your purchase!
+----------------------------------
+======================================
+----------------------------------
+      PHARMACEUTICAL COMPANY LIM      
+----------------------------------
+Receipt for Order Reference: 1000
+----------------------------------
+Client Name: 
+Client Phone Number: 
+Client Email: 
+----------------------------------
+Product Ordered: Injections
+Quantity: 409
+Total Price: Ksh818204.50
+----------------------------------
+Thank you for your purchase!
+----------------------------------
+======================================
+----------------------------------
+      PHARMACEUTICAL COMPANY LIM      
+----------------------------------
+Receipt for Order Reference: 1000
+----------------------------------
+Client Name: njoro
+Client Phone Number: 0799169720
+Client Email: sam@email.com
+----------------------------------
+Product Ordered: Inhalers
+Quantity: 100
+Total Price: Ksh150040.00
+----------------------------------
+Thank you for your purchase!
+----------------------------------
+======================================
