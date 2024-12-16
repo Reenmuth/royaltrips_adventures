@@ -1,0 +1,85 @@
+.homepage {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  section {
+    margin: 30px 0;
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #004080;
+  }
+  
+  /* Services Section */
+  .services {
+    background-color: #f8f9fa;
+    padding: 30px;
+  }
+  
+  .service-list {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+  }
+  
+  .service-item {
+    width: 30%;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  /* Carousel Section */
+  /* Carousel Section */
+.carousel {
+    margin: 20px auto;
+    max-width: 800px; /* Adjust as per your layout width */
+  }
+  
+  .carousel img {
+    width: 100%;          /* Make the image fill the container */
+    height: 400px;        /* Fixed height for all images */
+    object-fit: cover;    /* Crop images to cover the set dimensions */
+    border-radius: 10px;  /* Optional: rounded corners for images */
+  }
+  
+  
+  /* Video Section */
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  iframe {
+    border: none;
+    border-radius: 10px;
+  }
+  
+  /* Payment Section */
+  .payment {
+    text-align: center;
+    background-color: #004080;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .payment-btn {
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .payment-btn:hover {
+    background-color: #e65c00;
+  }
+  
